@@ -53,19 +53,7 @@
 ### 工具 & 平台
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-## 📊 GitHub 统计
-
-<!-- 🔧 修改提示：将下面所有的 YOUR_GITHUB_USERNAME 替换为你的 GitHub 用户名 -->
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zlovec-bot&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zlovec-bot&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zlovec-bot&theme=radical&hide_border=true)
-  
+ 
 
 </div>
 
@@ -81,8 +69,8 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlovec-bot&repo=PROJECT_NAME_1&theme=radical)](https://github.com/zlovec-bot/Context-Aware-User-Memory.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlovec-botE&repo=PROJECT_NAME_2&theme=radical)](https://github.com/zlovec-bot/Meta-Agent.git)
+[![Context-Aware-User-Memory](https://github-readme-stats.vercel.app/api/pin/?username=zlovec-bot&repo=PROJECT_NAME_1&theme=radical)](https://github.com/zlovec-bot/Context-Aware-User-Memory.git)
+[![Meta-Agent](https://github-readme-stats.vercel.app/api/pin/?username=zlovec-botE&repo=PROJECT_NAME_2&theme=radical)](https://github.com/zlovec-bot/Meta-Agent.git)
 
 
 ## 🌐 社交媒体
